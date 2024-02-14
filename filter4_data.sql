@@ -1,0 +1,3 @@
+SELECT *
+FROM sales
+WHERE sale_volume BETWEEN 50 AND 100;
